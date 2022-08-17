@@ -32,12 +32,11 @@ header {
     align-items: center;
     color: white;
     font-size: 1rem;
-    margin: 0 40px;
+    margin: 0 210px;
     font-weight: 500;
 }
 .nav-bar {
     list-style: none;
-    font-weight: lighter;
     display: flex;
     gap: 1.5rem;
     font-weight: 500;
