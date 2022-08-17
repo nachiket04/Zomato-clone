@@ -45,8 +45,7 @@ header {
 }
 
 .nav-bar li:hover{
-    padding: 5px;
-    background-color: rgb(143, 0, 168);
+    font-weight:bold;
 }
 .head {
     display: flex;
